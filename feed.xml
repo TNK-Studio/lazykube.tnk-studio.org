@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+    <link href="https://lazykube.tnk-studio.org/feed.xml" rel="self" type="application/atom+xml" />
+    <link href="https://lazykube.tnk-studio.org/" rel="alternate" type="text/html" />
+    <updated>2020-11-24T19:36:49+00:00</updated>
+    <id>https://lazykube.tnk-studio.org/feed.xml</id>
+    <title type="html">Lazykube</title>
+    <subtitle>⎈ The lazier way to manage kubernetes.</subtitle>
+</feed>
